@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-10-10T15:16:02" hostname="ISABELLA" time="0.027">
+  <properties/>
+  <testcase name="testMainDiagonals()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.016"/>
+  <testcase name="testRows()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.001"/>
+  <testcase name="testDiagonalLeft()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.001"/>
+  <testcase name="testColumns()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.001"/>
+  <testcase name="testNonMutant()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.001"/>
+  <testcase name="testDiagonalRight()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.001"/>
+  <testcase name="testRowsCols()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.0"/>
+  <testcase name="testAllDirections()" classname="org.example.parcialmutantes_prog3_romo.service.MutantServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
