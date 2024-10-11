@@ -5,21 +5,6 @@ ___
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/usuario/proyecto-x.git
-
-2. Entrar en el directorio del proyecto:
-   ```bash
-   cd proyecto-x
-  
-3. Instalar las dependencias:
-
-   ```bash
-   npm install
-
-4. Ejecutar la API:
-
-   ```bash
-   npm start
-
 ___   
 ## CÓMO PROBAR ENDPOINTS
 ### **1. EN RENDER**
