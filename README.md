@@ -1,5 +1,8 @@
 # TEST MUTANTES (PARCIAL 1 - PROG 3)
 Esta API tiene como objetivo determinar si un humano es mutante o no basándose en su secuencia de ADN.
+
+## DIAGRAMA DE SECUENCIA
+Para ver el diagrama de secuencia / arquitectura del sistema, entrar al siguiente URL: https://drive.google.com/file/d/1F1G1kP9Wq_ztweHauMtHDZTOyfYPpDPo/view?usp=sharing
 ___
 ## INSTALACIÓN
 1. Clonar el repositorio:
